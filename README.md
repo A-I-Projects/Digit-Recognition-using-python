@@ -21,10 +21,9 @@ Image of a single hand written digit is passed as input.
 
 <img src='https://github.com/sonalisaraswat/Digit-Recognition-using-python/blob/master/aa.jpg' width="60%" height="200">
 
-Source code in the file named "Minor.py" of this repository.
 
-Outputs:
-The input image is coverted to a row of pixels, which is stored in the excel sheet "array.csv", this is now converted into a 28*28 pixel image.
+***Outputs:***
+***The input image is coverted to a row of pixels, which is stored in the excel sheet "array.csv", this is now converted into a 28*28 pixel image.***
 
 <img src = "https://github.com/sonalisaraswat/Digit-Recognition-using-python/blob/master/Figure_1.png" width="60%" height ="200">
 
@@ -32,7 +31,7 @@ The data from this excel sheet is used to predict the digit written in the input
 
 <img src="https://github.com/sonalisaraswat/Digit-Recognition-using-python/blob/master/Capture.PNG" width="300">
 
-**Instruction For Running This in your PC**<br>
+# Instruction For Running This in your PC:<br>
 
 ***Install The Required Modules by giving folllowing Command***<br>
 ```pip3 install -r requirements.txt```<br>
