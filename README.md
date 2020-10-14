@@ -31,3 +31,9 @@ The input image is coverted to a row of pixels, which is stored in the excel she
 The data from this excel sheet is used to predict the digit written in the input image, using the "decision tree classifier".
 
 <img src="https://github.com/sonalisaraswat/Digit-Recognition-using-python/blob/master/Capture.PNG" width="300">
+
+**Instruction For Running This in your PC**<br>
+***Install The Required Modules by giving folllowing Command***<br>
+```pip3 install -r requirements.txt```<br>
+***Now Run This Final Command In YoUR pc***<br>
+```python3 Minor.py```<br>
